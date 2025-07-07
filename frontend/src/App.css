@@ -397,6 +397,12 @@ nav {
   gap: 2rem;
 }
 
+.instagram__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
 .footer__container h4 {
   margin-bottom: 1.5rem;
   font-size: 1.2rem;
@@ -505,6 +511,11 @@ nav {
 
   .banner__container {
     grid-template-columns: repeat(1, 1fr);
+  }
+
+  .instagram__grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
   }
 
 }
