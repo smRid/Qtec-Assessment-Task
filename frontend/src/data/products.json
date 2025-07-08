@@ -97,7 +97,7 @@
     {
       "_id": 10,
       "name": "Casual Pants",
-      "category": "dress",
+      "category": "bottom",
       "description": "Comfortable maxi dress for casual outings.",
       "price": 59.99,
       "oldPrice": 79.99,
