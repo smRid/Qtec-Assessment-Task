@@ -36,7 +36,7 @@
       "_id": 4,
       "name": "Denim Jeans",
       "category": "bottom",
-      "description": "Comfortable and stylish dark blue jeans.",
+      "description": "Comfortable and stylish dark blue jeans pant.",
       "price": 99.99,
       "image": "/src/assets/Product-4.png",
       "color": "dark blue",
@@ -98,11 +98,11 @@
       "_id": 10,
       "name": "Casual Pants",
       "category": "bottom",
-      "description": "Comfortable maxi dress for casual outings.",
+      "description": "Comfortable pants for casual outings.",
       "price": 59.99,
       "oldPrice": 79.99,
       "image": "/src/assets/Product-10.png",
-      "color": "green",
+      "color": "light green",
       "rating": 3
     }
   ]
