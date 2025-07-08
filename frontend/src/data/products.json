@@ -8,8 +8,7 @@
       "oldPrice": 99.99,
       "image": "/src/assets/Product-1.png",
       "color": "black",
-      "rating": 4.5,
-      "author":"admin"
+      "rating": 4.5
     },
     {
       "_id": 2,
@@ -19,7 +18,7 @@
       "price": 149.99,
       "oldPrice": 199.99,
       "image": "/src/assets/Product-2.png",
-      "color": "red",
+      "color": "black",
       "rating": 4.0
     },
     {
@@ -39,7 +38,7 @@
       "description": "Comfortable and stylish dark blue jeans pant.",
       "price": 99.99,
       "image": "/src/assets/Product-4.png",
-      "color": "dark blue",
+      "color": "blue",
       "rating": 4.2
     },
     {
@@ -102,7 +101,7 @@
       "price": 59.99,
       "oldPrice": 79.99,
       "image": "/src/assets/Product-10.png",
-      "color": "light green",
+      "color": "green",
       "rating": 3
     }
   ]
