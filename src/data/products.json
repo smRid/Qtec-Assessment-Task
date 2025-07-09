@@ -6,7 +6,7 @@
       "description": "Stylish leather handbag with ample storage space.",
       "price": 79.99,
       "oldPrice": 99.99,
-      "image": "/src/assets/Product-1.png",
+      "image": "/Product-1.png",
       "color": "black",
       "rating": 4.5
     },
@@ -17,7 +17,7 @@
       "description": "Elegant evening gown for special occasions.",
       "price": 149.99,
       "oldPrice": 199.99,
-      "image": "/src/assets/Product-2.png",
+      "image": "/Product-2.png",
       "color": "black",
       "rating": 4.0
     },
@@ -27,7 +27,7 @@
       "category": "top",
       "description": "Comfortable and stylish white T-shirt for everyday wear.",
       "price": 89.99,
-      "image": "/src/assets/Product-3.png",
+      "image": "/Product-3.png",
       "color": "white",
       "rating": 4.7
     },
@@ -37,7 +37,7 @@
       "category": "bottom",
       "description": "Comfortable and stylish dark blue jeans pant.",
       "price": 99.99,
-      "image": "/src/assets/Product-4.png",
+      "image": "/Product-4.png",
       "color": "blue",
       "rating": 4.2
     },
@@ -48,7 +48,7 @@
       "description": "Luxurious silk scarf with vibrant colors.",
       "price": 29.99,
       "oldPrice": 39.99,
-      "image": "/src/assets/Product-5.png",
+      "image": "/Product-5.png",
       "color": "blue",
       "rating": 4.3
     },
@@ -58,7 +58,7 @@
       "category": "dress",
       "description": "Comfortable dress for parties and events.",
       "price": 89.99,
-      "image": "/src/assets/Product-6.png",
+      "image": "/Product-6.png",
       "color": "gold",
       "rating": 4.4
     },
@@ -69,7 +69,7 @@
       "description": "Stylish casual jacket for men.",
       "price": 199.99,
       "oldPrice": 249.99,
-      "image": "/src/assets/Product-7.png",
+      "image": "/Product-7.png",
       "color": "black",
       "rating": 4.8
     },
@@ -79,7 +79,7 @@
       "category": "accessories",
       "description": "Trendy sunglasses with UV protection.",
       "price": 39.99,
-      "image": "/src/assets/Product-8.png",
+      "image": "/Product-8.png",
       "color": "black",
       "rating": 4.1
     },
@@ -89,7 +89,7 @@
       "category": "accessories",
       "description": "Stylish watch with a modern design.",
       "price": 349.99,
-      "image": "/src/assets/Product-9.png",
+      "image": "/Product-9.png",
       "color": "black",
       "rating": 5.0
     },
@@ -100,7 +100,7 @@
       "description": "Comfortable pants for casual outings.",
       "price": 59.99,
       "oldPrice": 79.99,
-      "image": "/src/assets/Product-10.png",
+      "image": "/Product-10.png",
       "color": "green",
       "rating": 3
     }
